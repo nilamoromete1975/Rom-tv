@@ -1,0 +1,4 @@
+XXX            https://iptv-org.github.io/iptv/categories/xxx.m3u
+Romania        https://iptv-org.github.io/iptv/languages/ron.m3u
+Romania2       https://iptv-org.github.io/iptv/countries/ro.m3u
+International  https://iptv-org.github.io/iptv/countries/int.m3u
